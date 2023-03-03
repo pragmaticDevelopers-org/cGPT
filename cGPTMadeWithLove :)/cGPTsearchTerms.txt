@@ -1,0 +1,27 @@
+Using R language in RGui, Make a program for this problem 
+Also explain it in very detail to me:
+AIM: Create Matrix A and B using R, A=
+−3 2 6
+4 0 −1
+5 2 3
+, B=
+1 5 4
+−3 2 6
+0 −4 3
+Find the following matrices.
+a) A+B b) AB c) BA d) AT e) (A+B)T f) A-1
+
+
+Using R language in RGui, Make a program for this problem.
+Also explain it in very detail to me
+Also give a working example of this program:
+AIM: Create Matrix A and B using R, A=
+−3 2 6
+4 0 −1
+5 2 3
+, B=
+1 5 4
+−3 2 6
+0 −4 3
+Find the following matrices.
+a) A+B b) AB c) BA d) AT e) (A+B)T f) A-1
